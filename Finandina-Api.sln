@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36804.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finandina-Api", "Finandina-Api\Finandina-Api.csproj", "{179B8BE6-85EB-4DC2-895B-C7EA27D0BA56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finandina-Api", "src\Finandina-Api\Finandina-Api.csproj", "{179B8BE6-85EB-4DC2-895B-C7EA27D0BA56}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructure", "Infraestructure", "{F81C39DD-7CD7-41C3-886C-4DA9DBD60C16}"
 EndProject
@@ -11,15 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{E12403D4-B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{0A16B1A7-EE45-4C5A-A6F8-D41381FF4A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finandina-Application", "Finandina-Application\Finandina-Application.csproj", "{36831AAF-D218-4FA4-A0BC-536F2C90FCB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finandina-Application", "src\Finandina-Application\Finandina-Application.csproj", "{36831AAF-D218-4FA4-A0BC-536F2C90FCB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finandina-Domain", "Finandina-Domain\Finandina-Domain.csproj", "{B8528083-A05A-4A44-9305-567BAE0E2E0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finandina-Domain", "src\Finandina-Domain\Finandina-Domain.csproj", "{B8528083-A05A-4A44-9305-567BAE0E2E0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finandina-External", "Finandina-External\Finandina-External.csproj", "{57E0FBDF-3B53-48D1-856B-E9FC5170EA70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finandina-External", "src\Finandina-External\Finandina-External.csproj", "{57E0FBDF-3B53-48D1-856B-E9FC5170EA70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finandina-Persistence", "Finandina-Persistence\Finandina-Persistence.csproj", "{5E801607-3A67-4CBD-BDC7-BC100E0BA158}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finandina-Persistence", "src\Finandina-Persistence\Finandina-Persistence.csproj", "{5E801607-3A67-4CBD-BDC7-BC100E0BA158}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finandina-Utilities", "Finandina-Utilities\Finandina-Utilities.csproj", "{759F61F3-C16D-43B0-8284-9CBCA5CA889A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finandina-Utilities", "src\Finandina-Utilities\Finandina-Utilities.csproj", "{759F61F3-C16D-43B0-8284-9CBCA5CA889A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
